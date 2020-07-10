@@ -1,6 +1,5 @@
 
-alert("SUBSCRIBE TO GAMING WITH RAG ON YOUTUBE");
-alert("DON'T FORGET TO TURN THE ON VOLUME");
+
 var song = new Audio();
 song.src = "https://ia802907.us.archive.org/12/items/78_rocket-69_todd-rhodes-orchestra-connie-allen-glover-mann_gbia0063200b/Rocket%2069%20-%20Todd%20Rhodes%20Orchestra%20-%20Connie%20Allen.mp3";
 var t = setInterval(function() {
